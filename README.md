@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img style="display:none;" src="https://profile-counter.glitch.me/zpratikpathak/count.svg" />
 </p>
-
+ -->
 <p align="center">
   <b>Thanks For Visiting My Profile ❤️</b>
 </p>
