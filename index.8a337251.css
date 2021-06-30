@@ -1,0 +1,111 @@
+.project {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #383838;
+  padding-bottom: 40px;
+}
+
+.project-card {
+  position: relative;
+  background: #fff;
+  width: 400px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.project-card .project-content {
+  width: 400px;
+  padding: 30px;
+  box-sizing: border-box;
+  color: black;
+}
+
+.project-card .project-content a {
+  display: inline-block;
+  margin: 10px 0 0;
+  padding: 10px 20px;
+  text-decoration: none;
+  border: 2px solid #262626;
+  color: #262626;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+}
+
+.project-card .project-content a:hover {
+  color: #fff;
+  background: #262626;
+}
+
+.project-card .project-sliderText {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+}
+
+.swiper-slide:nth-child(1) .project-sliderText {
+  background: url(project1.43bbf16c.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-slide:nth-child(2) .project-sliderText {
+  background: url(project2.11db654a.gif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-slide:nth-child(3) .project-sliderText {
+  background: url(project3.4cfeee25.gif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-slide:nth-child(4) .project-sliderText {
+  background: url(project4.0bada792.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-slide:nth-child(5) .project-sliderText {
+  background: url(project5.085aeaed.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.project-card .project-sliderText h3 {
+  color: #fff;
+  font-size: 3em;
+  opacity: 0.3;
+}
+
+.project-card:hover .project-sliderText h3 {
+  opacity: 1;
+}
+
+.project .swiper-container .swiper-wrapper .swiper-slide {
+  width: 400px;
+}
+
+@media (max-width: 600px) {
+  .project-card {
+    width: 350px;
+  }
+
+  .project-card .project-content {
+    width: 350px;
+  }
+}
+
+/*# sourceMappingURL=index.8a337251.css.map */

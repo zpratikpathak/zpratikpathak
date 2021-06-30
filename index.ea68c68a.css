@@ -1,0 +1,206 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+}
+
+.navigation {
+  position: relative;
+  padding: 0 100px;
+  display: flex;
+  justify-content: flex-end;
+  background-color: #111;
+}
+
+.navigation header ul {
+  margin-top: 20px;
+  position: relative;
+  display: flex;
+}
+
+.navigation header li {
+  list-style: none;
+  margin: 0 20px;
+}
+
+.navigation header li a {
+  position: relative;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 4px 10px;
+  color: #fff;
+}
+
+.navigation header li a:hover,
+.navigation header li a.active {
+  background: #fff;
+  color: #111;
+}
+
+.scroll-snap {
+  width: 100%;
+  height: 100%;
+
+  scroll-snap-type: y proximity;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.page {
+  width: 100vw;
+  height: 100vh;
+
+  scroll-snap-align: start;
+}
+
+/* .page .pageTitle h2 span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+
+  text-decoration: none;
+  color: #111;
+  background-color: #fff;
+} */
+
+.page .pageTitle {
+  padding-top: 30px;
+}
+
+.page .pageTitle ul {
+  margin-top: 20px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.page .pageTitle ul li {
+  list-style: none;
+  margin: 0 20px;
+
+  position: relative;
+  text-decoration: none;
+  font-size: 30px;
+  padding: 4px 30px;
+  color: #111;
+  background-color: #fff;
+}
+
+@media (max-width: 990px) {
+  .page .pageTitle {
+    padding-top: 15px;
+  }
+}
+
+.page:nth-of-type(1) {
+  background-color: #111;
+  color: #fff;
+}
+
+.page:nth-of-type(2) {
+  background-color: #111;
+  color: azure;
+}
+
+@media (max-width: 610px) {
+  .page:nth-of-type(2) {
+    height: 180vh;
+  }
+}
+
+.page:nth-of-type(3) {
+  background-color: #383838;
+  color: azure;
+}
+
+.page:nth-of-type(4) {
+  background-color: #111;
+  color: azure;
+}
+
+@media (max-width: 580px) {
+  .page:nth-of-type(4) {
+    height: 120vh;
+  }
+}
+
+@media (max-width: 991px) {
+  .navigation {
+    padding: 20px;
+  }
+
+  .navigation::before {
+    width: 100%;
+  }
+
+  .navigation header {
+    padding: 10px 20px;
+  }
+
+  .navigation header ul {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: #fff;
+    z-index: 2000;
+    display: none;
+    align-items: center;
+
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .navigation header.active ul {
+    display: flex;
+  }
+
+  .navigation header ul li {
+    text-align: center;
+    margin: 10px;
+  }
+
+  .navigation header ul li a {
+    color: #333;
+    font-size: 1.5em;
+  }
+
+  .navigation header ul li a:hover {
+    color: #f00;
+  }
+
+  .menuIcon {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    display: initial;
+    z-index: 10000;
+    background: #fff url(menu.b779a2ff.png);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+  }
+
+  .menuIcon.active {
+    background: #fff url(close.0127fdda.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+}
+
+/*# sourceMappingURL=index.ea68c68a.css.map */

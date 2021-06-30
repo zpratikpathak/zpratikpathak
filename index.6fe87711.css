@@ -1,0 +1,122 @@
+.about-section {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #ddd;
+}
+
+.about-container {
+  width: 80%;
+  display: block;
+  margin: auto;
+  padding-top: 100px;
+}
+
+.about-content-section {
+  float: left;
+  width: 55%;
+}
+
+.about-image-section {
+  float: right;
+  width: 40%;
+}
+
+.about-image-section img {
+  width: 100%;
+  height: auto;
+}
+
+.about-content-section .about-title {
+  text-transform: uppercase;
+  font-size: 28px;
+}
+
+.about-content-section .about-content h3 {
+  margin-top: 20px;
+  color: #5d5d5d;
+  font-size: 21px;
+}
+
+.about-content-section .about-content p {
+  margin-top: 10px;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.about-content-section .about-content .button {
+  margin-top: 30px;
+  /* Hiddent until I work on About me page */
+  display: none;
+}
+.about-content-section .about-content .button a {
+  background-color: #3d3d3d;
+  padding: 12px 40px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  letter-spacing: 1.5px;
+}
+
+.about-content-section .about-content .button a:hover {
+  background-color: #a52a2a;
+  color: #fff;
+}
+
+.about-content-section .social {
+  margin: 40px 40px;
+}
+
+.about-content-section .social i {
+  color: #a52a2a;
+  font-size: 30px;
+  padding: 0px 10px;
+}
+
+.about-content-section .social i:hover {
+  color: #3d3d3d;
+}
+
+@media screen and (max-width: 768px) {
+  .about-container {
+    padding-top: 50px;
+  }
+
+  .about-content-section {
+    float: none;
+    width: 100%;
+    display: block;
+    margin: auto;
+  }
+
+  .about-image-section {
+    float: none;
+    width: 100%;
+  }
+
+  .about-image-section img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+
+  .about-content-section .about-title {
+    text-align: center;
+    font-size: 19px;
+  }
+
+  .about-content-section .about-content .button {
+    text-align: center;
+  }
+
+  .about-content-section .about-content .button a {
+    padding: 9px 30px;
+  }
+
+  .about-content-section .social {
+    text-align: center;
+  }
+}
+
+/*# sourceMappingURL=index.6fe87711.css.map */
