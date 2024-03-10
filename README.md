@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Javascript by building Top 25+ Javascript Project for beginners](https://pratikpathak.com/learn-javascript-by-building-top-25-javascript-project-for-beginners/)
 - [I created a Digital Clock using Javascript in a Min](https://pratikpathak.com/digital-clock-using-javascript/)
 - [Build Weather App using Javascript in 2 min](https://pratikpathak.com/weather-app-using-javascript/)
 - [Calculate Age/Prediction app using Html, CSS &amp; Javascript TFjs](https://pratikpathak.com/age-prediction-using-javascript/)
 - [Beautiful Beginner Javascript Projects “Travel India”](https://pratikpathak.com/travel-india-beginner-javascript-projects/)
-- [iOS Calculator Javascript Project for beginner](https://pratikpathak.com/calculator-javascript-project-for-beginner/)
 <!-- BLOG-POST-LIST:END -->
 
 
