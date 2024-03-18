@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hosted a Seminar 📖 on Cloud Computing at Sri Sairam College of Engineering](https://pratikpathak.com/hosted-a-seminar-%f0%9f%93%96-on-cloud-computing-at-sri-sairam-college-of-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=hosted-a-seminar-%25f0%259f%2593%2596-on-cloud-computing-at-sri-sairam-college-of-engineering)
 - [Speaker at BangPypers 🐍 at Microsoft](https://pratikpathak.com/speaker-at-bangpypers-%f0%9f%90%8d-at-microsoft/?utm_source=rss&utm_medium=rss&utm_campaign=speaker-at-bangpypers-%25f0%259f%2590%258d-at-microsoft)
 - [Speaker at ReactPlay🧠 at Razorpay](https://pratikpathak.com/speaker-at-reactplay%f0%9f%a7%a0-at-razorpay/?utm_source=rss&utm_medium=rss&utm_campaign=speaker-at-reactplay%25f0%259f%25a7%25a0-at-razorpay)
 - [Learn Javascript by building Top 25+ Javascript Project for beginners](https://pratikpathak.com/learn-javascript-by-building-top-25-javascript-project-for-beginners/?utm_source=rss&utm_medium=rss&utm_campaign=learn-javascript-by-building-top-25-javascript-project-for-beginners)
 - [I created a Digital Clock using Javascript in a Min](https://pratikpathak.com/digital-clock-using-javascript/?utm_source=rss&utm_medium=rss&utm_campaign=digital-clock-using-javascript)
-- [Build Weather App using Javascript in 2 min](https://pratikpathak.com/weather-app-using-javascript/?utm_source=rss&utm_medium=rss&utm_campaign=weather-app-using-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 
