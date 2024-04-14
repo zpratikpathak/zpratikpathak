@@ -2,8 +2,8 @@
 <h2 align="center">👋 Hello! I'm Pratik.</h2>
 
 <!-- Insert image in .md file -->
-<p align="center">
-  <img src="./img/loficity.gif">
+<p >
+  <img width="400" align="right" src="./img/loficity.gif">
 </p>
 
 Pratik Pathak a highly accomplished technology professional with a passion for sharing his knowledge and expertise with others. As a Microsoft Certified Trainer, Pratik is dedicated to helping individuals and organizations learn how to harness the power of technology to drive business success. With his extensive experience and in-depth understanding of the latest tools and techniques, Pratik is a valuable resource for anyone looking to take their skills to the next level..
