@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create an Interactive command line tool in Python 🐍](https://pratikpathak.com/create-an-interactive-command-line-tool-in-python-%f0%9f%90%8d/?utm_source=rss&utm_medium=rss&utm_campaign=create-an-interactive-command-line-tool-in-python-%25f0%259f%2590%258d)
 - [25+ Python Bokeh Example. Learn Bokeh From Examples](https://pratikpathak.com/25-python-bokeh-example-learn-bokeh-from-examples/?utm_source=rss&utm_medium=rss&utm_campaign=25-python-bokeh-example-learn-bokeh-from-examples)
 - [[SOLVED] Chrome Driver version 122.0.6261.95 not found. Automatically fetch chromedriver](https://pratikpathak.com/solved-chrome-driver-version-122-0-6261-95-not-found-automatically-fetch-chromedriver/?utm_source=rss&utm_medium=rss&utm_campaign=solved-chrome-driver-version-122-0-6261-95-not-found-automatically-fetch-chromedriver)
 - [Invited as Judge 👩‍⚖️ at Kristu Jayanti College Autonomous](https://pratikpathak.com/invited-as-judge-%f0%9f%91%a9%e2%9a%96%ef%b8%8f-at-kristu-jayanti-college-autonomous/?utm_source=rss&utm_medium=rss&utm_campaign=invited-as-judge-%25f0%259f%2591%25a9%25e2%259a%2596%25ef%25b8%258f-at-kristu-jayanti-college-autonomous)
 - [Hosted a Seminar 📖 on Cloud Computing at Sri Sairam College of Engineering](https://pratikpathak.com/hosted-a-seminar-%f0%9f%93%96-on-cloud-computing-at-sri-sairam-college-of-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=hosted-a-seminar-%25f0%259f%2593%2596-on-cloud-computing-at-sri-sairam-college-of-engineering)
-- [Speaker at BangPypers 🐍 at Microsoft](https://pratikpathak.com/speaker-at-bangpypers-%f0%9f%90%8d-at-microsoft/?utm_source=rss&utm_medium=rss&utm_campaign=speaker-at-bangpypers-%25f0%259f%2590%258d-at-microsoft)
 <!-- BLOG-POST-LIST:END -->
 
 
