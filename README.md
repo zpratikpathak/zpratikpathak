@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Time to Ditch Requirements.txt now! Start using Poetry. Python Poetry Example](https://pratikpathak.com/python-poetry-example/?utm_source=rss&utm_medium=rss&utm_campaign=python-poetry-example)
 - [Judge/Speaker at BFCET 36 hour 🕓 long Hackathon](https://pratikpathak.com/judge-speaker-at-bfcet-36-hour-%f0%9f%95%93-long-hackathon/?utm_source=rss&utm_medium=rss&utm_campaign=judge-speaker-at-bfcet-36-hour-%25f0%259f%2595%2593-long-hackathon)
 - [Create an Interactive command line tool in Python 🐍](https://pratikpathak.com/create-an-interactive-command-line-tool-in-python-%f0%9f%90%8d/?utm_source=rss&utm_medium=rss&utm_campaign=create-an-interactive-command-line-tool-in-python-%25f0%259f%2590%258d)
 - [25+ Python Bokeh Example. Learn Bokeh From Examples](https://pratikpathak.com/25-python-bokeh-example-learn-bokeh-from-examples/?utm_source=rss&utm_medium=rss&utm_campaign=25-python-bokeh-example-learn-bokeh-from-examples)
 - [[SOLVED] Chrome Driver version 122.0.6261.95 not found. Automatically fetch chromedriver](https://pratikpathak.com/solved-chrome-driver-version-122-0-6261-95-not-found-automatically-fetch-chromedriver/?utm_source=rss&utm_medium=rss&utm_campaign=solved-chrome-driver-version-122-0-6261-95-not-found-automatically-fetch-chromedriver)
-- [Invited as Judge 👩‍⚖️ at Kristu Jayanti College Autonomous](https://pratikpathak.com/invited-as-judge-%f0%9f%91%a9%e2%9a%96%ef%b8%8f-at-kristu-jayanti-college-autonomous/?utm_source=rss&utm_medium=rss&utm_campaign=invited-as-judge-%25f0%259f%2591%25a9%25e2%259a%2596%25ef%25b8%258f-at-kristu-jayanti-college-autonomous)
 <!-- BLOG-POST-LIST:END -->
 
 
