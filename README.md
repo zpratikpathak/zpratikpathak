@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Git – The time machine of Developers](https://pratikpathak.com/learn-git-with-git-handson/?utm_source=rss&utm_medium=rss&utm_campaign=learn-git-with-git-handson)
-- [Easiest way to Learn GitHub, on the way to Open Source](https://pratikpathak.com/learn-github-with-github-handson/?utm_source=rss&utm_medium=rss&utm_campaign=learn-github-with-github-handson)
-- [Time to Ditch Requirements.txt now! Start using Poetry. Python Poetry Example](https://pratikpathak.com/python-poetry-example/?utm_source=rss&utm_medium=rss&utm_campaign=python-poetry-example)
-- [Judge/Speaker at BFCET 36 hour ???? long Hackathon](https://pratikpathak.com/judge-speaker-at-bfcet-36-hour-%f0%9f%95%93-long-hackathon/?utm_source=rss&utm_medium=rss&utm_campaign=judge-speaker-at-bfcet-36-hour-%25f0%259f%2595%2593-long-hackathon)
-- [Create an Interactive command line tool in Python ????](https://pratikpathak.com/create-an-interactive-command-line-tool-in-python-%f0%9f%90%8d/?utm_source=rss&utm_medium=rss&utm_campaign=create-an-interactive-command-line-tool-in-python-%25f0%259f%2590%258d)
+- [Far far away, behind the word mountains](https://pratikpathak.com/far-far-away-behind-the-word-mountains/)
+- [The meaning of health has evolved over time](https://pratikpathak.com/the-meaning-of-health-has-evolved-over-time/)
+- [The spectacle before us was indeed sublime](https://pratikpathak.com/the-spectacle-before-us-was-indeed-sublime/)
+- [Musical improvisation is the spontaneous music](https://pratikpathak.com/musical-improvisation-is-the-creation-of-spontaneous-music/)
+- [A small dog named Duden flows by their place](https://pratikpathak.com/a-small-river-named-duden-flows-by-their-place/)
 <!-- BLOG-POST-LIST:END -->
 
 
