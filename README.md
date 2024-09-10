@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Git – The time machine of Developers](https://pratikpathak.com/learn-git-with-git-handson/)
-- [Easiest way to Learn GitHub, on the way to Open Source](https://pratikpathak.com/learn-github-with-github-handson/)
-- [Time to Ditch Requirements.txt now! Start using Poetry. Python Poetry Example](https://pratikpathak.com/python-poetry-example/)
-- [Judge/Speaker at BFCET 36 hour ???? long Hackathon](https://pratikpathak.com/judge-speaker-at-bfcet-36-hour-%f0%9f%95%93-long-hackathon/)
-- [Create an Interactive command line tool in Python ????](https://pratikpathak.com/create-an-interactive-command-line-tool-in-python-%f0%9f%90%8d/)
+- [Let’s Learn Git and GItHub Workshop at GAT](https://pratikpathak.com/lets-learn-git-and-github-workshop-at-gat/)
+- [Hosted DevOps Seminar for Atria University 🎓.](https://pratikpathak.com/hosted-devops-seminar-for-atria-university-%f0%9f%8e%93/)
+- [OpenSource Debt 💳. Hosted Workshop at UVCE](https://pratikpathak.com/opensource-debt-%f0%9f%92%b3-hosted-workshop-at-uvce/)
+- [Hosted a Seminar of GenAI powered by LLM ⚡ at City College of Engineering](https://pratikpathak.com/hosted-a-seminar-of-genai-powered-by-llm-%e2%9a%a1-at-city-college-of-engineering/)
+- [Speaker at ReactPlay! LLM into GenAI @GeekyAnts](https://pratikpathak.com/speaker-at-reactplay-llm-into-genai/)
 <!-- BLOG-POST-LIST:END -->
 
 
