@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure AI Services: Building Tomorrow’s Intelligence, Today 🤖](https://pratikpathak.com/azure-ai-services-building-tomorrows-intelligence/)
 - [Let’s Learn Git and GItHub Workshop at GAT](https://pratikpathak.com/lets-learn-git-and-github-workshop-at-gat/)
 - [Hosted DevOps Seminar for Atria University 🎓.](https://pratikpathak.com/hosted-devops-seminar-for-atria-university-%f0%9f%8e%93/)
 - [OpenSource Debt 💳. Hosted Workshop at UVCE](https://pratikpathak.com/opensource-debt-%f0%9f%92%b3-hosted-workshop-at-uvce/)
 - [Hosted a Seminar of GenAI powered by LLM ⚡ at City College of Engineering](https://pratikpathak.com/hosted-a-seminar-of-genai-powered-by-llm-%e2%9a%a1-at-city-college-of-engineering/)
-- [Speaker at ReactPlay! LLM into GenAI @GeekyAnts](https://pratikpathak.com/speaker-at-reactplay-llm-into-genai/)
 <!-- BLOG-POST-LIST:END -->
 
 
