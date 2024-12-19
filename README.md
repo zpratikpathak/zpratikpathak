@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use 100% of Azure Databases](https://pratikpathak.com/how-to-use-100-of-azure-databases/)
+- [Azure DevOps in Action: Automate, Collaborate, Deliver](https://pratikpathak.com/azure-devops-automate-collaborate-deliver/)
 - [What I Learned About App Service: 6 Months in Just 5 Minutes](https://pratikpathak.com/app-service-6-months-in-just-5-minutes/)
 - [Azure OpenAI: Zero to Hero – A Complete Integration Guide](https://pratikpathak.com/azure-openai-zero-to-hero/)
 - [Coordinator/Speaker at Tech24Vision](https://pratikpathak.com/coordinator-speaker-at-tech24vision/)
-- [Azure AI Services: Building Tomorrow’s Intelligence, Today 🤖](https://pratikpathak.com/azure-ai-services-building-tomorrows-intelligence/)
-- [Let’s Learn Git and GitHub Workshop at GAT](https://pratikpathak.com/lets-learn-git-and-github-workshop-at-gat/)
 <!-- BLOG-POST-LIST:END -->
 
 
