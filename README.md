@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Bengaluru Hactoberfest: OpenSource in the air ☁️](https://pratikpathak.com/bengaluru-hactoberfest-opensource-in-the-air/)
 - [3 Steps to Fine-Tuning Azure AI Services for Maximum Impact](https://pratikpathak.com/fine-tuning-azure-ai-services/)
 - [The Power of Azure AI Agent Service: Master Conversational AI](https://pratikpathak.com/power-of-azure-ai-agent-service/)
 - [Master Azure AI Language in 5 Minutes](https://pratikpathak.com/azure-ai-language-in-5-minutes/)
 - [How to Use 100% of Azure Databases](https://pratikpathak.com/how-to-use-100-of-azure-databases/)
-- [Azure DevOps in Action: Automate, Collaborate, Deliver](https://pratikpathak.com/azure-devops-automate-collaborate-deliver/)
 <!-- BLOG-POST-LIST:END -->
 
 
