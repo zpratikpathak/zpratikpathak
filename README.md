@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Fixed] ‘super’ object has no attribute ‘__sklearn_tags__’](https://pratikpathak.com/sklearn-super-object-has-no-attribute/)
+- [Migrating Poetry to UV Package Manager](https://pratikpathak.com/migrating-poetry-to-uv-package-manager/)
 - [Responsible AI in Action: How Azure Ensures Fairness, Privacy, and Security](https://pratikpathak.com/responsible-ai-in-azure-ai-services/)
 - [5 Powerful Techniques to Maximize Azure AI Bot Service Potential](https://pratikpathak.com/5-tips-to-azure-ai-bot-service/)
 - [Unlock the Power of Azure AI Foundry: Mastering AI Innovation](https://pratikpathak.com/unlock-the-power-of-azure-ai-foundry/)
-- [Bengaluru Hactoberfest: OpenSource in the air ☁️](https://pratikpathak.com/bengaluru-hactoberfest-opensource-in-the-air/)
-- [3 Steps to Fine-Tuning Azure AI Services for Maximum Impact](https://pratikpathak.com/fine-tuning-azure-ai-services/)
 <!-- BLOG-POST-LIST:END -->
 
 
