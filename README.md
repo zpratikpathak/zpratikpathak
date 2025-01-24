@@ -66,7 +66,7 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [[Fixed]Identifying the Full Path to xxx/Library/bin in Python](https://pratikpathak.com/identifying-the-full-path-to-xxx-library-bin/)
+- [[Fixed] Identifying the Full Path to xxx/Library/bin in Python](https://pratikpathak.com/identifying-the-full-path-to-xxx-library-bin/)
 - [[Fixed] “ModuleNotFoundError”: No module named ‘distutils.msvccompiler’](https://pratikpathak.com/no-module-named-distutils-msvccompiler/)
 - [Powerful Voice Chatbot Using Azure AI Speech Services](https://pratikpathak.com/voice-chatbot-by-azure-ai-speech-services/)
 - [Migrating Poetry to UV Package Manager](https://pratikpathak.com/migrating-poetry-to-uv-package-manager/)
