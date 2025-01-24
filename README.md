@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Fixed]Identifying the Full Path to xxx/Library/bin in Python](https://pratikpathak.com/identifying-the-full-path-to-xxx-library-bin/)
+- [[Fixed] “ModuleNotFoundError”: No module named ‘distutils.msvccompiler’](https://pratikpathak.com/no-module-named-distutils-msvccompiler/)
+- [Powerful Voice Chatbot Using Azure AI Speech Services](https://pratikpathak.com/voice-chatbot-by-azure-ai-speech-services/)
 - [Migrating Poetry to UV Package Manager](https://pratikpathak.com/migrating-poetry-to-uv-package-manager/)
 - [[Fixed] ‘super’ object has no attribute ‘sklearn_tags’](https://pratikpathak.com/sklearn-super-object-has-no-attribute/)
-- [Responsible AI in Action: How Azure Ensures Fairness, Privacy, and Security](https://pratikpathak.com/responsible-ai-in-azure-ai-services/)
-- [5 Powerful Techniques to Maximize Azure AI Bot Service Potential](https://pratikpathak.com/5-tips-to-azure-ai-bot-service/)
-- [Unlock the Power of Azure AI Foundry: Mastering AI Innovation](https://pratikpathak.com/unlock-the-power-of-azure-ai-foundry/)
 <!-- BLOG-POST-LIST:END -->
 
 
