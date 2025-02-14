@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways Edge AI with Azure Percept is Revolutionizing Intelligent Computing](https://pratikpathak.com/edge-ai-with-azure-percept/)
+- [Master Python Selenium ChromeDriver for Seamless Web Automation](https://pratikpathak.com/selenium-python-chrome-driver/)
+- [5 Steps to Building Large Language Model Applications with Azure AI](https://pratikpathak.com/building-large-language-model-applications/)
 - [How to Write a Blog Like a Pro: A Step-by-Step Guide](https://pratikpathak.com/how-to-write-a-blog-like-a-pro-a/)
 - [[Fixed] Identifying the Full Path to xxx/Library/bin in Python](https://pratikpathak.com/identifying-the-full-path-to-xxx-library-bin/)
-- [[Fixed] “ModuleNotFoundError”: No module named ‘distutils.msvccompiler’](https://pratikpathak.com/no-module-named-distutils-msvccompiler/)
-- [Powerful Voice Chatbot Using Azure AI Speech Services](https://pratikpathak.com/voice-chatbot-by-azure-ai-speech-services/)
-- [Migrating Poetry to UV Package Manager](https://pratikpathak.com/migrating-poetry-to-uv-package-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 
