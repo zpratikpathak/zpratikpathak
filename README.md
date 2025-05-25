@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise Agility: Jira Align vs. Azure Boards – Which Reigns Supreme?](https://pratikpathak.com/enterprise-agility-jira-align-vs-azure-boards-which-reigns-supreme/)
 - [Azure DevOps vs Jira: Which One is Right for Your Team?](https://pratikpathak.com/azure-devops-vs-jira/)
 - [𝗔𝗻 𝘂𝗻𝗳𝗼𝗿𝗴𝗲𝘁𝘁𝗮𝗯𝗹𝗲 𝗺𝗼𝗺𝗲𝗻𝘁 𝗮𝘁 𝗕𝗙𝗖𝗘𝗧 𝟮.𝟬 𝗣𝘂𝗻𝗷𝗮𝗯](https://pratikpathak.com/%f0%9d%97%94%f0%9d%97%bb-%f0%9d%98%82%f0%9d%97%bb%f0%9d%97%b3%f0%9d%97%bc%f0%9d%97%bf%f0%9d%97%b4%f0%9d%97%b2%f0%9d%98%81%f0%9d%98%81%f0%9d%97%ae%f0%9d%97%af%f0%9d%97%b9%f0%9d%97%b2-%f0%9d%97%ba/)
 - [5 Ways Edge AI with Azure Percept is Revolutionizing Intelligent Computing](https://pratikpathak.com/edge-ai-with-azure-percept/)
 - [Master Python Selenium ChromeDriver for Seamless Web Automation](https://pratikpathak.com/selenium-python-chrome-driver/)
-- [5 Steps to Building Large Language Model Applications with Azure AI](https://pratikpathak.com/building-large-language-model-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 
