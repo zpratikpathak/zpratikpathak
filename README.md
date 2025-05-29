@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rajasthan Board RBSE Results Declared: Check result from here.](https://pratikpathak.com/rajasthan-board-rbse/)
 - [[Solved] Extract coordinate values in xarray Python](https://pratikpathak.com/extract-coordinate-values-in-xarray/)
 - [[Solved] Selenium 4.25 opens Chrome 136 with existing profile to “New Tab” instead of navigating with driver.get&lpar;&rpar;](https://pratikpathak.com/selenium-4-25-opens-chrome-136-with-existing-profile-to-new-tab-instead-of-navigating-with-driver-get/)
 - [Enterprise Agility: Jira Align vs Azure Boards – Which Reigns Supreme?](https://pratikpathak.com/jira-align-vs-azure-boards/)
 - [Azure DevOps vs Jira: Which One is Right for Your Team?](https://pratikpathak.com/azure-devops-vs-jira/)
-- [𝗔𝗻 𝘂𝗻𝗳𝗼𝗿𝗴𝗲𝘁𝘁𝗮𝗯𝗹𝗲 𝗺𝗼𝗺𝗲𝗻𝘁 𝗮𝘁 𝗕𝗙𝗖𝗘𝗧 𝟮.𝟬 𝗣𝘂𝗻𝗷𝗮𝗯](https://pratikpathak.com/%f0%9d%97%94%f0%9d%97%bb-%f0%9d%98%82%f0%9d%97%bb%f0%9d%97%b3%f0%9d%97%bc%f0%9d%97%bf%f0%9d%97%b4%f0%9d%97%b2%f0%9d%98%81%f0%9d%98%81%f0%9d%97%ae%f0%9d%97%af%f0%9d%97%b9%f0%9d%97%b2-%f0%9d%97%ba/)
 <!-- BLOG-POST-LIST:END -->
 
 
