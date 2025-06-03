@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Fixed] No route matches URL “/.well- known/appspecific/com.chrome.devtools.json”](https://pratikpathak.com/well-known-appspecific-com-chrome-devtools-json/)
 - [I discovered best simple docker hacks and it has become part of my life](https://pratikpathak.com/best-simple-docker-hacks/)
 - [It’s 2025 and You Still Use Useless VS Code Extensions, Developer top 20 VScode Extensions must have.](https://pratikpathak.com/vscode-extensions-must-have/)
 - [Azure Devops vs Atlassian : The worst one is…](https://pratikpathak.com/azure-devops-vs-atlassian/)
 - [Rajasthan Board RBSE Results Declared: Check result from here.](https://pratikpathak.com/rajasthan-board-rbse/)
-- [[Solved] Extract coordinate values in xarray Python](https://pratikpathak.com/extract-coordinate-values-in-xarray/)
 <!-- BLOG-POST-LIST:END -->
 
 
