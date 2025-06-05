@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Fixed] Error with LangChain ChatPromptTemplate.from_messages](https://pratikpathak.com/error-with-langchain-chatprompttemplate-from-messages/)
 - [Save Sentence-BERT output vectors to a file, a simple guide](https://pratikpathak.com/sentence-bert-output-vectors-to-a-file/)
 - [[Fixed] requests.exceptions.HTTPError: 403 Client Error: Forbidden for url](https://pratikpathak.com/fixed-requests-exceptions-httperror-403-client-error-forbidden-for-url/)
 - [[Fixed] No route matches URL “/.well- known/appspecific/com.chrome.devtools.json”](https://pratikpathak.com/well-known-appspecific-com-chrome-devtools-json/)
 - [I discovered best simple docker hacks and it has become part of my life](https://pratikpathak.com/best-simple-docker-hacks/)
-- [It’s 2025 and You Still Use Useless VS Code Extensions, Developer top 20 VScode Extensions must have.](https://pratikpathak.com/vscode-extensions-must-have/)
 <!-- BLOG-POST-LIST:END -->
 
 
