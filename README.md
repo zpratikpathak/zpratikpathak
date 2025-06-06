@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Fixed] TypeError: _tokenize&lpar;&rpar; got an unexpected keyword argument ‘pad_to_max_length’](https://pratikpathak.com/typeerror-tokenize-got-an-unexpected-keyword-argument-pad-to-max-length/)
 - [[Fixed] Angular HttpClient make GET request with JSON in the body](https://pratikpathak.com/angular-httpclient-make-get-request-with-json-in-the-body/)
 - [[Fixed] Error with LangChain ChatPromptTemplate.from_messages](https://pratikpathak.com/error-with-langchain-chatprompttemplate-from-messages/)
 - [Save Sentence-BERT output vectors to a file, a simple guide](https://pratikpathak.com/sentence-bert-output-vectors-to-a-file/)
 - [[Fixed] requests.exceptions.HTTPError: 403 Client Error: Forbidden for url](https://pratikpathak.com/fixed-requests-exceptions-httperror-403-client-error-forbidden-for-url/)
-- [[Fixed] No route matches URL “/.well- known/appspecific/com.chrome.devtools.json”](https://pratikpathak.com/well-known-appspecific-com-chrome-devtools-json/)
 <!-- BLOG-POST-LIST:END -->
 
 
