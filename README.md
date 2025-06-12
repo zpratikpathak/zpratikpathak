@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Fixed] Error: The file A has been modified by A on A](https://pratikpathak.com/error-the-file-a-has-been-modified-by-a-on-a/)
 - [[Fixed] throw new TypeError&lpar;Missing parameter name at ${i}: ${DEBUG_URL}&rpar;;](https://pratikpathak.com/throw-new-typeerrormissing-parameter-name-at-i-debug-url/)
 - [[Fixed] Visual Studio Closing All Your Browser Windows](https://pratikpathak.com/visual-studio-closes-all-browser-windows/)
 - [Manually download .vsix files now that the VS Code Marketplace no longer supplies them in-browser](https://pratikpathak.com/manually-download-vsix-files/)
 - [[Fixed] TypeError: _tokenize&lpar;&rpar; got an unexpected keyword argument ‘pad_to_max_length’](https://pratikpathak.com/typeerror-tokenize-got-an-unexpected-keyword-argument-pad-to-max-length/)
-- [[Fixed] Angular HttpClient make GET request with JSON in the body](https://pratikpathak.com/angular-httpclient-make-get-request-with-json-in-the-body/)
 <!-- BLOG-POST-LIST:END -->
 
 
