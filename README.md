@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I’ve force-upgraded to macOS 26 because of two features](https://pratikpathak.com/apple-ai-linux-fusion/)
 - [Create Bijective Map Type in C++](https://pratikpathak.com/bijective-map-type-c/)
 - [[Fixed] “Component auth has not been registered yet” on app launch](https://pratikpathak.com/component-auth-has-not-been-registered-yet/)
 - [[Fixed] Error: The file A has been modified by A on A](https://pratikpathak.com/error-the-file-a-has-been-modified-by-a-on-a/)
 - [[Fixed] throw new TypeError&lpar;Missing parameter name at ${i}: ${DEBUG_URL}&rpar;;](https://pratikpathak.com/throw-new-typeerrormissing-parameter-name-at-i-debug-url/)
-- [[Fixed] Visual Studio Closing All Your Browser Windows](https://pratikpathak.com/visual-studio-closes-all-browser-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 
