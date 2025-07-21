@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Speaker at “Pieces of Memory”. Fine Tune your LLM Model](https://pratikpathak.com/speaker-at-pieces-of-memory-fine-tune-your-llm-model/)
 - [[Fixed] App must target Android 15 &lpar;API level 35&rpar; or higher](https://pratikpathak.com/app-must-target-android-15-api-level-35-or-higher/)
 - [I’ve force-upgraded to macOS 26 because of two features](https://pratikpathak.com/apple-ai-linux-fusion/)
 - [Create Bijective Map Type in C++](https://pratikpathak.com/bijective-map-type-c/)
 - [[Fixed] “Component auth has not been registered yet” on app launch](https://pratikpathak.com/component-auth-has-not-been-registered-yet/)
-- [[Fixed] Error: The file A has been modified by A on A](https://pratikpathak.com/error-the-file-a-has-been-modified-by-a-on-a/)
 <!-- BLOG-POST-LIST:END -->
 
 
