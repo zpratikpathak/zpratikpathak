@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Deep Dive into the World of ChatGPT Agents 🤖](https://pratikpathak.com/my-deep-dive-into-the-world-of-chatgpt-agents/)
 - [Building &amp; Deploying your First Cloud App](https://pratikpathak.com/building-deploying-your-first-cloud-app/)
 - [Speaker at “Pieces of Memory”. Fine Tune your LLM Model](https://pratikpathak.com/speaker-at-pieces-of-memory-fine-tune-your-llm-model/)
 - [[Fixed] App must target Android 15 &lpar;API level 35&rpar; or higher](https://pratikpathak.com/app-must-target-android-15-api-level-35-or-higher/)
 - [I’ve force-upgraded to macOS 26 because of two features](https://pratikpathak.com/apple-ai-linux-fusion/)
-- [Create Bijective Map Type in C++](https://pratikpathak.com/bijective-map-type-c/)
 <!-- BLOG-POST-LIST:END -->
 
 
