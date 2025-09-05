@@ -66,11 +66,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Didn’t Have Money to Pay for Grammarly, So I Self-Hosted My Own Solution Using LanguageTool 📝](https://pratikpathak.com/i-didnt-have-money-to-pay-for-grammarly-so-i-self-hosted-my-own-solution-using-languagetool-%f0%9f%93%9d/)
 - [[Fixed] CondaToSNonInteractiveError: Terms of Service have not been accepted](https://pratikpathak.com/fixed-condatosnoninteractiveerror-terms-of-service-have-not-been-accepted/)
 - [Don’t use Azure AI Bot Service, My personal experience](https://pratikpathak.com/guide-azure-ai-bot-services/)
 - [My Grand Tour of Azure AI Bot Service to Functioning bot 🤖](https://pratikpathak.com/guide-azure-ai-bot-service/)
 - [My Deep Dive into the World of ChatGPT Agents 🤖](https://pratikpathak.com/my-deep-dive-into-the-world-of-chatgpt-agents/)
-- [Building &amp; Deploying your First Cloud App](https://pratikpathak.com/building-deploying-your-first-cloud-app/)
 <!-- BLOG-POST-LIST:END -->
 
 
