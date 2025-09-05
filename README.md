@@ -39,7 +39,10 @@ A juicebox server to play around.
 
 ## 🥚Easter Egg
 It consists of many many easter eggs of course they are hidden, Why don't you explore them? Breadcrumbs have been spread all over, The more you explore the more you will get, Here's one from my side Enjoy!!!! 👇👇👇👇
+
+---
 ### Activate Windows/Office for FREE.
+
 Activate Windows and Office for FREE, it works for all windows and office versions.
 
 Steps to activate windows/office for free: 
@@ -51,7 +54,22 @@ irm https://pratikpathak.com/activate | iex
 ```
 - Follow on-screen instructions
 - Voila!! You have activated your Windows/Office for FREE.
+---
+### WinExe - Windows SwissArmy tool.
 
+Just Install a new windows? want to install chrome, winrar, brave, python, java, etc ? Want to mod your Windows? Want to remove Copilot?
+
+Install Everything in a Single Click
+
+Steps 👉: 
+- Press "Win+X" and select Windows Powershell/Windows Terminal
+- Type this command and press enter
+```
+irm https://pratikpathak.com/winexe | iex
+```
+- Follow on-screen instructions
+- Voila!! You are done.
+---
 ## Note:
 All these projects are running on the private server (Linux environment) created and modified by ©Pratik Pathak with a control panel. All web apps are encrypted with SSL. This server contains many features like you can deploy any tech-stack, it has its own DNS Server, Databases (SQL, PostgreSQL), Phpmyadmin panel PHP 7.4, PHP 8.0, PHP 8.2, Python, Reddis Server, etc the list keeps on going... All were Created by Pratik. No Copyrights are allowed it's all under MIT License. All Rights Reserved to ©PratikPathak.com
 <br>Wanna See the server?<br>
