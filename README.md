@@ -55,7 +55,7 @@ irm https://pratikpathak.com/activate | iex
 - Follow on-screen instructions
 - Voila!! You have activated your Windows/Office for FREE.
 ---
-### WinExe - Windows SwissArmy tool.
+### Winexe - Windows SwissArmy tool.
 
 Just Install a new windows? want to install chrome, winrar, brave, python, java, etc ? Want to mod your Windows? Want to remove Copilot?
 
