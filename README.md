@@ -21,7 +21,7 @@ In the leisure time he takes workshop and seminar for students which is absolute
 A Personal Blogging website.
 
 👉[Cloud.PratikPathak.com](http://cloud.pratikpathak.com "ZCloud") - ZCloud ☁<br>
-A alternative to Google Photos and Google Drive. It has it's own chat system, meet, maps, notes. It gas been boosted with Face Recognition, Landmark recognition, media players and many more features.
+A alternative to Google Photos and Google Drive. It has it's own chat system, meet, maps, notes. It has been boosted with Face Recognition, Landmark recognition, media players and many more features.
 
 👉[Mail.PratikPathak.com](http://mail.pratikpathak.com "Mail") - Mail 📧<br>
 Private MailServer. Send or receive e-mails of pratikpathak.com.
