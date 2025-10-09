@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Return by Value in Rust: Why It’s Idiomatic and Efficient](https://pratikpathak.com/return-by-value-in-rust-why-its-idiomatic-and-efficient/)
 - [Fix ’16 KB Page Size’ Issue in Android App Bundles](https://pratikpathak.com/fix-16-kb-page-size-issue-in-android-app-bundles/)
 - [How I Finally Got g++ Working on Windows &lpar;And You Can Too!&rpar;](https://pratikpathak.com/how-i-finally-got-g-working-on-windows-and-you-can-too/)
 - [I Didn’t Have Money to Pay for Grammarly, So I Self-Hosted My Own Solution Using LanguageTool 📝](https://pratikpathak.com/i-didnt-have-money-to-pay-for-grammarly-so-i-self-hosted-my-own-solution-using-languagetool-%f0%9f%93%9d/)
 - [[Fixed] CondaToSNonInteractiveError: Terms of Service have not been accepted](https://pratikpathak.com/fixed-condatosnoninteractiveerror-terms-of-service-have-not-been-accepted/)
-- [Don’t use Azure AI Bot Service, My personal experience](https://pratikpathak.com/guide-azure-ai-bot-services/)
 <!-- BLOG-POST-LIST:END -->
 
 
