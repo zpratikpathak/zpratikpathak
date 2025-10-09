@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[FIX] How to automatically approve/continue GitHub Copilot terminal commands in VS Code](https://pratikpathak.com/fix-how-to-automatically-approve-continue-github-copilot-terminal-commands-in-vs-code/)
+- [[FIX] How can I parse a string to a float in C in a way that isn’t affected by the current locale?](https://pratikpathak.com/fix-how-can-i-parse-a-string-to-a-float-in-c-in-a-way-that-isnt-affected-by-the-current-locale/)
+- [[FIX] iOS 26 Safari – Web layouts are breaking due to fixed/sticky position elements getting misplaced](https://pratikpathak.com/fix-ios-26-safari-web-layouts-are-breaking-due-to-fixed-sticky-position-elements-getting-misplaced/)
+- [[FIX] Guide to iOS 26 Glass Effect and ToolbarColorScheme Issue and Solution](https://pratikpathak.com/fix-guide-to-ios-26-glass-effect-and-toolbarcolorscheme-issue-and-solution/)
 - [Return by Value in Rust: Why It’s Idiomatic and Efficient](https://pratikpathak.com/return-by-value-in-rust-why-its-idiomatic-and-efficient/)
-- [Fix ’16 KB Page Size’ Issue in Android App Bundles](https://pratikpathak.com/fix-16-kb-page-size-issue-in-android-app-bundles/)
-- [How I Finally Got g++ Working on Windows &lpar;And You Can Too!&rpar;](https://pratikpathak.com/how-i-finally-got-g-working-on-windows-and-you-can-too/)
-- [I Didn’t Have Money to Pay for Grammarly, So I Self-Hosted My Own Solution Using LanguageTool 📝](https://pratikpathak.com/i-didnt-have-money-to-pay-for-grammarly-so-i-self-hosted-my-own-solution-using-languagetool-%f0%9f%93%9d/)
-- [[Fixed] CondaToSNonInteractiveError: Terms of Service have not been accepted](https://pratikpathak.com/fixed-condatosnoninteractiveerror-terms-of-service-have-not-been-accepted/)
 <!-- BLOG-POST-LIST:END -->
 
 
