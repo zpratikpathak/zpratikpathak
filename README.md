@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[FIX] Does excessive use of likely and unlikely really degrade program performance?](https://pratikpathak.com/fix-does-excessive-use-of-likely-and-unlikely-really-degrade-program-performance/)
 - [[FIX] How to automatically approve/continue GitHub Copilot terminal commands in VS Code](https://pratikpathak.com/fix-how-to-automatically-approve-continue-github-copilot-terminal-commands-in-vs-code/)
 - [[FIX] How can I parse a string to a float in C in a way that isn’t affected by the current locale?](https://pratikpathak.com/fix-how-can-i-parse-a-string-to-a-float-in-c-in-a-way-that-isnt-affected-by-the-current-locale/)
 - [[FIX] iOS 26 Safari – Web layouts are breaking due to fixed/sticky position elements getting misplaced](https://pratikpathak.com/fix-ios-26-safari-web-layouts-are-breaking-due-to-fixed-sticky-position-elements-getting-misplaced/)
 - [[FIX] Guide to iOS 26 Glass Effect and ToolbarColorScheme Issue and Solution](https://pratikpathak.com/fix-guide-to-ios-26-glass-effect-and-toolbarcolorscheme-issue-and-solution/)
-- [Return by Value in Rust: Why It’s Idiomatic and Efficient](https://pratikpathak.com/return-by-value-in-rust-why-its-idiomatic-and-efficient/)
 <!-- BLOG-POST-LIST:END -->
 
 
