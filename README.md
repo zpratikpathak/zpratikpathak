@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[FIX] YouTube Error 153: Video Player Configuration Error when embedding YouTube videos](https://pratikpathak.com/fix-youtube-error-153-video-player-configuration-error-when-embedding-youtube-videos/)
 - [[FIX] Localhost applications failing after installing “2025-10 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems &lpar;KB5066835&rpar;”](https://pratikpathak.com/fix-localhost-applications-failing-after-installing-2025-10-cumulative-update-for-windows-11-version-24h2-for-x64-based-systems-kb5066835/)
 - [[FIX] Does excessive use of likely and unlikely really degrade program performance?](https://pratikpathak.com/fix-does-excessive-use-of-likely-and-unlikely-really-degrade-program-performance/)
 - [[FIX] How to automatically approve/continue GitHub Copilot terminal commands in VS Code](https://pratikpathak.com/fix-how-to-automatically-approve-continue-github-copilot-terminal-commands-in-vs-code/)
 - [[FIX] How can I parse a string to a float in C in a way that isn’t affected by the current locale?](https://pratikpathak.com/fix-how-can-i-parse-a-string-to-a-float-in-c-in-a-way-that-isnt-affected-by-the-current-locale/)
-- [[FIX] iOS 26 Safari – Web layouts are breaking due to fixed/sticky position elements getting misplaced](https://pratikpathak.com/fix-ios-26-safari-web-layouts-are-breaking-due-to-fixed-sticky-position-elements-getting-misplaced/)
 <!-- BLOG-POST-LIST:END -->
 
 
