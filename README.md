@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Completely Moved from AWS Lambda to Azure Functions Because of This One Feature](https://pratikpathak.com/i-completely-moved-from-aws-lambda-to-azure-functions-because-of-this-one-feature/)
 - [Monitoring and Observability for Azure AI Agents: Building Production-Ready Systems](https://pratikpathak.com/monitoring-and-observability-for-azure-ai-agents-building-production-ready-systems/)
 - [Future-Proofing Your Azure AI Agent Architecture: Scalability and Evolution Strategies](https://pratikpathak.com/future-proofing-your-azure-ai-agent-architecture-scalability-and-evolution-strategies/)
 - [[FIX] YouTube Error 153: Video Player Configuration Error when embedding YouTube videos](https://pratikpathak.com/fix-youtube-error-153-video-player-configuration-error-when-embedding-youtube-videos/)
 - [[FIX] Localhost applications failing after installing “2025-10 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems &lpar;KB5066835&rpar;”](https://pratikpathak.com/fix-localhost-applications-failing-after-installing-2025-10-cumulative-update-for-windows-11-version-24h2-for-x64-based-systems-kb5066835/)
-- [[FIX] Does excessive use of likely and unlikely really degrade program performance?](https://pratikpathak.com/fix-does-excessive-use-of-likely-and-unlikely-really-degrade-program-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 
