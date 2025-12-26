@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Completely Moved from Datadog to Azure Monitor Because of This One Feature](https://pratikpathak.com/datadog-to-azure-monitor-switch/)
 - [I Completely Moved from Google Cloud AI to Azure OpenAI Service Because of This One Feature](https://pratikpathak.com/i-completely-moved-from-google-cloud-ai-to-azure-openai-service-because-of-this-one-feature/)
 - [I Completely Moved from AWS Lambda to Azure Functions Because of This One Feature](https://pratikpathak.com/i-completely-moved-from-aws-lambda-to-azure-functions-because-of-this-one-feature/)
 - [Monitoring and Observability for Azure AI Agents: Building Production-Ready Systems](https://pratikpathak.com/monitoring-and-observability-for-azure-ai-agents-building-production-ready-systems/)
 - [Future-Proofing Your Azure AI Agent Architecture: Scalability and Evolution Strategies](https://pratikpathak.com/future-proofing-your-azure-ai-agent-architecture-scalability-and-evolution-strategies/)
-- [[FIX] YouTube Error 153: Video Player Configuration Error when embedding YouTube videos](https://pratikpathak.com/fix-youtube-error-153-video-player-configuration-error-when-embedding-youtube-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 
