@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Jenkins to Azure DevOps: Why I Completely Moved Because of One Feature](https://pratikpathak.com/jenkins-to-azure-devops-migration/)
 - [I Completely Moved from MongoDB Atlas to Azure Cosmos DB Because I compare mongodb with cosmosdb](https://pratikpathak.com/mongodb-atlas-vs-azure-cosmos-db/)
 - [I Completely Moved from Datadog to Azure Monitor Because of This One Feature](https://pratikpathak.com/datadog-to-azure-monitor-switch/)
 - [I Completely Moved from Google Cloud AI to Azure OpenAI Service Because of This One Feature](https://pratikpathak.com/i-completely-moved-from-google-cloud-ai-to-azure-openai-service-because-of-this-one-feature/)
 - [I Completely Moved from AWS Lambda to Azure Functions Because of This One Feature](https://pratikpathak.com/i-completely-moved-from-aws-lambda-to-azure-functions-because-of-this-one-feature/)
-- [Monitoring and Observability for Azure AI Agents: Building Production-Ready Systems](https://pratikpathak.com/monitoring-and-observability-for-azure-ai-agents-building-production-ready-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 
