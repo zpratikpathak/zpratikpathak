@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Completely Moved from Heroku to Azure Container Apps Because of This One Feature](https://pratikpathak.com/heroku-to-azure-container-apps/)
 - [I Completely Moved from Auth0 to Azure AD B2C Because of This One Feature](https://pratikpathak.com/auth0-to-azure-ad-b2c-migration/)
 - [Jenkins to Azure DevOps: Why I Completely Moved Because of One Feature](https://pratikpathak.com/jenkins-to-azure-devops-migration/)
 - [I Completely Moved from MongoDB Atlas to Azure Cosmos DB Because I compare mongodb with cosmosdb](https://pratikpathak.com/mongodb-atlas-vs-azure-cosmos-db/)
 - [I Completely Moved from Datadog to Azure Monitor Because of This One Feature](https://pratikpathak.com/datadog-to-azure-monitor-switch/)
-- [I Completely Moved from Google Cloud AI to Azure OpenAI Service Because of This One Feature](https://pratikpathak.com/i-completely-moved-from-google-cloud-ai-to-azure-openai-service-because-of-this-one-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 
