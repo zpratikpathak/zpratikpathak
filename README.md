@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Stopped Writing “God Prompts” and Built an Azure Multi-Agent System Instead](https://pratikpathak.com/azure-multi-agent-system-vs-god-prompts/)
 - [Building Your First Multi-Agent System with Azure AI Agent Service: A Complete Tutorial](https://pratikpathak.com/azure-ai-agent-service-multi-agent-system/)
 - [I Completely Moved from Snowflake to Azure Synapse Analytics Because of This One Feature](https://pratikpathak.com/snowflake-to-azure-synapse-analytics-migration/)
 - [I Completely Moved from Heroku to Azure Container Apps Because of This One Feature](https://pratikpathak.com/heroku-to-azure-container-apps/)
 - [I Completely Moved from Auth0 to Azure AD B2C Because of This One Feature](https://pratikpathak.com/auth0-to-azure-ad-b2c-migration/)
-- [Jenkins to Azure DevOps: Why I Completely Moved Because of One Feature](https://pratikpathak.com/jenkins-to-azure-devops-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 
