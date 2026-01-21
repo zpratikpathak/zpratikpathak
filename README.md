@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating from Poetry to uv Guide: Why I Finally Let Go of My Lockfile Comfort](https://pratikpathak.com/migrating-from-poetry-to-uv-guide/)
 - [uv Workspace vs Poetry: Managing Python Monorepos Without Losing My Mind](https://pratikpathak.com/uv-workspace-vs-poetry-managing-python-monorepos/)
 - [Fastest Way to Install PyTorch Using uv: The Night I Stopped Waiting for Wheels](https://pratikpathak.com/fastest-way-to-install-pytorch-using-uv/)
 - [Using uv with Docker Multi-Stage Builds: How I Optimized My Python Containers](https://pratikpathak.com/using-uv-with-docker-multi-stage-builds/)
 - [I Completely Moved from Traditional Workflow Automation to AI Orchestration Because of This One Feature](https://pratikpathak.com/ai-orchestration-workflow-automation/)
-- [I Stopped Writing “God Prompts” and Built an Azure Multi-Agent System Instead](https://pratikpathak.com/azure-multi-agent-system-vs-god-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 
