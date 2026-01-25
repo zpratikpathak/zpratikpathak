@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why uv Is Faster Than pip: The Day Installs Became Invisible](https://pratikpathak.com/why-uv-is-faster-than-pip-the-day-installs-became-invisible/)
 - [Fastest Python Package Manager: The Moment I Stopped Trusting pip](https://pratikpathak.com/fastest-python-package-manager/)
 - [Managing Python 3.13 Environments with uv: How I Avoided the Upgrade Chaos](https://pratikpathak.com/managing-python-3-13-environments-with-uv/)
 - [uv vs PDM vs Poetry 2026 Comparison: What I’d Actually Choose Today](https://pratikpathak.com/uv-vs-pdm-vs-poetry-2026-comparison/)
 - [Migrating from Poetry to uv Guide: Why I Finally Let Go of My Lockfile Comfort](https://pratikpathak.com/migrating-from-poetry-to-uv-guide/)
-- [uv Workspace vs Poetry: Managing Python Monorepos Without Losing My Mind](https://pratikpathak.com/uv-workspace-vs-poetry-managing-python-monorepos/)
 <!-- BLOG-POST-LIST:END -->
 
 
