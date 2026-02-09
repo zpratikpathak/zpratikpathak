@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Difference Between Poetry and Conda: The Day My Environment Stopped Being “Just Python”](https://pratikpathak.com/difference-between-poetry-and-conda/)
 - [Poetry vs Pipenv: The Tooling Choice That Slowed Me Down](https://pratikpathak.com/poetry-vs-pipenv/)
 - [How to Use uv as a pipx Replacement: The Day My Tooling Broke CI](https://pratikpathak.com/how-to-use-uv-as-a-pipx-replacement/)
 - [PIP vs CONDA for data science: The Week My Notebook Lied to Me](https://pratikpathak.com/pip-vs-conda-for-data-science/)
 - [I Completely Moved from AWS Cognito to Azure AD B2C Because of This One Feature](https://pratikpathak.com/aws-cognito-to-azure-ad-b2c/)
-- [Why uv Is Faster Than pip: The Day Installs Became Invisible](https://pratikpathak.com/why-uv-is-faster-than-pip-the-day-installs-became-invisible/)
 <!-- BLOG-POST-LIST:END -->
 
 
