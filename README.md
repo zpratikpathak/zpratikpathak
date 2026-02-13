@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Responsible AI Principles: The Day the Model Was “Right” and Still Failed](https://pratikpathak.com/azure-responsible-ai-principles/)
 - [Azure AI Services List: The Complete Guide to Microsoft’s AI Ecosystem](https://pratikpathak.com/azure-ai-services-list/)
 - [Why Responsible AI Is Important: The Moment We Realized the Model Wasn’t “Wrong”](https://pratikpathak.com/why-responsible-ai-is-important/)
 - [Best Python Package Manager for Data Science: The Setup That Finally Let Me Trust My Results](https://pratikpathak.com/best-python-package-manager-for-data-science/)
 - [Difference Between Poetry and Conda: The Day My Environment Stopped Being “Just Python”](https://pratikpathak.com/difference-between-poetry-and-conda/)
-- [Poetry vs Pipenv: The Tooling Choice That Slowed Me Down](https://pratikpathak.com/poetry-vs-pipenv/)
 <!-- BLOG-POST-LIST:END -->
 
 
