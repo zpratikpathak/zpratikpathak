@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Powerful &amp; Reliable Guide: ms-python.python VSIX Download Without Mistakes](https://pratikpathak.com/ms-python-python-vsix-download-guide/)
 - [Azure Responsible AI Dashboard: The Day the Model Looked “Perfect” and Still Failed](https://pratikpathak.com/azure-responsible-ai-dashboard/)
 - [Azure Responsible AI Principles: The Day the Model Was “Right” and Still Failed](https://pratikpathak.com/azure-responsible-ai-principles/)
 - [Azure AI Services List: The Complete Guide to Microsoft’s AI Ecosystem](https://pratikpathak.com/azure-ai-services-list/)
 - [Why Responsible AI Is Important: The Moment We Realized the Model Wasn’t “Wrong”](https://pratikpathak.com/why-responsible-ai-is-important/)
-- [Best Python Package Manager for Data Science: The Setup That Finally Let Me Trust My Results](https://pratikpathak.com/best-python-package-manager-for-data-science/)
 <!-- BLOG-POST-LIST:END -->
 
 
