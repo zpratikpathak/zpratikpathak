@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure OpenAI Fine Tuning Explained: The Powerful Shift That Finally Made My Model Behave](https://pratikpathak.com/azure-openai-fine-tuning-guide/)
 - [Powerful &amp; Reliable Guide: ms-python.python VSIX Download Without Mistakes](https://pratikpathak.com/ms-python-python-vsix-download-guide/)
 - [Azure Responsible AI Dashboard: The Day the Model Looked “Perfect” and Still Failed](https://pratikpathak.com/azure-responsible-ai-dashboard/)
 - [Azure Responsible AI Principles: The Day the Model Was “Right” and Still Failed](https://pratikpathak.com/azure-responsible-ai-principles/)
 - [Azure AI Services List: The Complete Guide to Microsoft’s AI Ecosystem](https://pratikpathak.com/azure-ai-services-list/)
-- [Why Responsible AI Is Important: The Moment We Realized the Model Wasn’t “Wrong”](https://pratikpathak.com/why-responsible-ai-is-important/)
 <!-- BLOG-POST-LIST:END -->
 
 
