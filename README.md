@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure AI Agents vs LangGraph: The Critical Architectural Comparison](https://pratikpathak.com/azure-ai-agents-vs-langgraph-comparison/)
+- [The Hard Truth About Poetry Monorepo: Powerful, Strict, and Easy to Break](https://pratikpathak.com/poetry-monorepo-structure-best-practices/)
 - [Azure OpenAI vs OpenAI: The Critical Differences Most Teams Miss](https://pratikpathak.com/azure-openai-vs-openai-complete-comparison/)
 - [The Hard Reality of Azure MongoDB Atlas: Powerful, Secure, and Not Always Simple](https://pratikpathak.com/azure-mongodb-atlas-complete-guide/)
 - [Azure OpenAI Fine Tuning Explained: The Powerful Shift That Finally Made My Model Behave](https://pratikpathak.com/azure-openai-fine-tuning-guide/)
-- [Powerful &amp; Reliable Guide: ms-python.python VSIX Download Without Mistakes](https://pratikpathak.com/ms-python-python-vsix-download-guide/)
-- [Azure Responsible AI Dashboard: The Day the Model Looked “Perfect” and Still Failed](https://pratikpathak.com/azure-responsible-ai-dashboard/)
 <!-- BLOG-POST-LIST:END -->
 
 
