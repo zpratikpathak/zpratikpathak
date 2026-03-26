@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 25+ Rust Projects for Beginners with Source Code Github [2026 Latest Project]](https://pratikpathak.com/top-rust-projects-with-source-code-github/)
 - [Azure AI agents with Cosmos DB memory: 7 Critical Design Patterns for Durable, Cost-Controlled Systems](https://pratikpathak.com/azure-ai-agents-with-cosmos-db-memory/)
 - [Securing AI agents with Azure AD B2C: 7 Critical Controls for Safe, Compliant Production Systems](https://pratikpathak.com/securing-ai-agents-with-azure-ad-b2c/)
 - [Azure multi-agent orchestration architecture guide: 8 Critical Design Decisions for Stable, Cost-Controlled Systems](https://pratikpathak.com/azure-multi-agent-orchestration-architecture/)
 - [Azure AI Agents vs LangGraph: The Critical Architectural Comparison](https://pratikpathak.com/azure-ai-agents-vs-langgraph-comparison/)
-- [7 Critical Wins &lpar;and Hidden Failures&rpar; in Azure AI Agent Observability Using Azure Monitor](https://pratikpathak.com/azure-ai-agent-observability-using-azure-monitor/)
 <!-- BLOG-POST-LIST:END -->
 
 
