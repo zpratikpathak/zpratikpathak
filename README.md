@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Enterprises Are Ditching Native OpenAI for Azure &lpar;It’s Not Just About Privacy&rpar;](https://pratikpathak.com/why-enterprises-are-ditching-native-openai-for-azure-its-not-just-about-privacy/)
 - [Top 25+ Python Projects for Beginners with Source Code Github [2026 Latest Project]](https://pratikpathak.com/top-python-projects-with-source-code-github/)
 - [Top 25+ Go Projects for Beginners with Source Code Github [2026 Latest Project]](https://pratikpathak.com/top-go-projects-with-source-code-github/)
 - [Top 25+ Rust Projects for Beginners with Source Code Github [2026 Latest Project]](https://pratikpathak.com/top-rust-projects-with-source-code-github/)
 - [Azure AI agents with Cosmos DB memory: 7 Critical Design Patterns for Durable, Cost-Controlled Systems](https://pratikpathak.com/azure-ai-agents-with-cosmos-db-memory/)
-- [Securing AI agents with Azure AD B2C: 7 Critical Controls for Safe, Compliant Production Systems](https://pratikpathak.com/securing-ai-agents-with-azure-ad-b2c/)
 <!-- BLOG-POST-LIST:END -->
 
 
