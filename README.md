@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure AI Agents vs LangGraph: Which Orchestration Framework is Right for You?](https://pratikpathak.com/azure-ai-agents-vs-langgraph-which-orchestration-framework-is-right-for-you/)
+- [Top 20+ React &amp; Next.js Projects for Beginners with Source Code Github [2026 Latest Project]](https://pratikpathak.com/top-react-nextjs-projects-with-source-code-github/)
 - [Why Enterprises Are Ditching Native OpenAI for Azure &lpar;It’s Not Just About Privacy&rpar;](https://pratikpathak.com/why-enterprises-are-ditching-native-openai-for-azure-its-not-just-about-privacy/)
 - [Top 25+ Python Projects for Beginners with Source Code Github [2026 Latest Project]](https://pratikpathak.com/top-python-projects-with-source-code-github/)
 - [Top 25+ Go Projects for Beginners with Source Code Github [2026 Latest Project]](https://pratikpathak.com/top-go-projects-with-source-code-github/)
-- [Top 25+ Rust Projects for Beginners with Source Code Github [2026 Latest Project]](https://pratikpathak.com/top-rust-projects-with-source-code-github/)
-- [Azure AI agents with Cosmos DB memory: 7 Critical Design Patterns for Durable, Cost-Controlled Systems](https://pratikpathak.com/azure-ai-agents-with-cosmos-db-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 
