@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CondaToSNonInteractiveError: How to Fix in 2026 &lpar;Docker, CI/CD, Scripts&rpar;](https://pratikpathak.com/condatosnoninteractiveerror-how-to-fix-in-2026-docker-ci-cd-scripts/)
 - [The Rise of Bot Connectors in Identity Governance: Solving the ‘Last Mile’ IGA Challenge](https://pratikpathak.com/the-rise-of-bot-connectors-in-identity-governance-solving-the-last-mile-iga-challenge/)
 - [Top 20+ DevOps &amp; Cloud Projects for Beginners &lpar;Azure, AWS, Docker&rpar;](https://pratikpathak.com/top-devops-cloud-projects-with-source-code-github/)
 - [Top 15+ AI &amp; LLM Projects to Build Your Portfolio in 2026 &lpar;With Source Code&rpar;](https://pratikpathak.com/top-ai-llm-projects-with-source-code-github/)
 - [Azure AI Agents vs LangGraph: Which Orchestration Framework is Right for You?](https://pratikpathak.com/azure-ai-agents-vs-langgraph-which-orchestration-framework-is-right-for-you/)
-- [Top 20+ React &amp; Next.js Projects for Beginners with Source Code Github [2026 Latest Project]](https://pratikpathak.com/top-react-nextjs-projects-with-source-code-github/)
 <!-- BLOG-POST-LIST:END -->
 
 
