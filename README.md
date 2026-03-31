@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 20+ Node.js &amp; Express Projects for Beginners with Source Code [2026]](https://pratikpathak.com/top-nodejs-express-projects-for-beginners-github/)
 - [Managing State in Multi-Agent Workflows: Redis vs Cosmos DB](https://pratikpathak.com/managing-state-in-multi-agent-workflows-redis-vs-cosmos-db/)
 - [CondaToSNonInteractiveError: How to Fix in 2026 &lpar;Docker, CI/CD, Scripts&rpar;](https://pratikpathak.com/condatosnoninteractiveerror-how-to-fix-in-2026-docker-ci-cd-scripts/)
 - [The Rise of Bot Connectors in Identity Governance: Solving the ‘Last Mile’ IGA Challenge](https://pratikpathak.com/the-rise-of-bot-connectors-in-identity-governance-solving-the-last-mile-iga-challenge/)
 - [Top 20+ DevOps &amp; Cloud Projects for Beginners &lpar;Azure, AWS, Docker&rpar;](https://pratikpathak.com/top-devops-cloud-projects-with-source-code-github/)
-- [Top 15+ AI &amp; LLM Projects to Build Your Portfolio in 2026 &lpar;With Source Code&rpar;](https://pratikpathak.com/top-ai-llm-projects-with-source-code-github/)
 <!-- BLOG-POST-LIST:END -->
 
 
