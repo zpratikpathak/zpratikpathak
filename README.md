@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 25+ Python Projects for AI Beginners with Source Code [2026 Latest]](https://pratikpathak.com/top-25-python-projects-for-ai-beginners-with-source-code-2026-latest/)
 - [Top 15+ Cyber Security &amp; Ethical Hacking Projects for Beginners &lpar;With Source Code&rpar;](https://pratikpathak.com/top-cyber-security-ethical-hacking-projects-github/)
 - [Top 20+ C++ Projects for Beginners with Source Code Github](https://pratikpathak.com/top-cpp-projects-for-beginners-with-source-code-github/)
 - [Top 15+ Machine Learning &amp; Data Science Projects for Beginners &lpar;With Source Code&rpar;](https://pratikpathak.com/top-machine-learning-data-science-projects-github/)
 - [Top 20+ Node.js &amp; Express Projects for Beginners with Source Code [2026]](https://pratikpathak.com/top-nodejs-express-projects-for-beginners-github/)
-- [Managing State in Multi-Agent Workflows: Redis vs Cosmos DB](https://pratikpathak.com/managing-state-in-multi-agent-workflows-redis-vs-cosmos-db/)
 <!-- BLOG-POST-LIST:END -->
 
 
