@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Personal Wikipedia with AI Agents: Andrej Karpathy’s LLM Wiki](https://pratikpathak.com/building-a-personal-wikipedia-with-ai-agents-andrej-karpathys-llm-wiki/)
+- [The ‘Infinite Loop’ Trap: How My Multi-Agent System Burned $200 Overnight &lpar;And How to Fix It&rpar;](https://pratikpathak.com/the-infinite-loop-trap-how-my-multi-agent-system-burned-200-overnight-and-how-to-fix-it/)
 - [Stop Overpaying for RAG: How We Cut Azure OpenAI Costs by 40% with One Architecture Tweak](https://pratikpathak.com/stop-overpaying-for-rag-how-we-cut-azure-openai-costs-by-40-with-one-architecture-tweak/)
 - [Just by changing this one setting I reduced my token usage by 75%](https://pratikpathak.com/caveman-claude-how-a-prehistoric-coding-style-cuts-ai-token-costs-by-75/)
 - [I Saved 80k Tokens a Day Just By Changing How My AI Agents Talk to Each Other](https://pratikpathak.com/i-saved-80k-tokens-a-day-just-by-changing-how-my-ai-agents-talk-to-each-other/)
-- [Managing State in Multi-Agent Workflows: Redis vs Cosmos DB in Production](https://pratikpathak.com/managing-state-in-multi-agent-workflows-redis-vs-cosmos-db-in-production/)
-- [Top 25+ TypeScript/Node.js Projects for AI Engineers with Source Code GitHub](https://pratikpathak.com/top-25-typescript-node-js-projects-for-ai-engineers-with-source-code-github/)
 <!-- BLOG-POST-LIST:END -->
 
 
