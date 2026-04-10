@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Cheapest &amp; Most Secure Ways to Self-Host Vaultwarden in 2026](https://pratikpathak.com/the-cheapest-most-secure-ways-to-self-host-vaultwarden-in-2026/)
 - [This Trick Boosts AI Agent Memory Retrieval by 78% With No Third-Party Tools](https://pratikpathak.com/trick-boosts-ai-agent-memory-retrieval-no-third-party-tools/)
 - [The ‘Infinite Loop’ Trap: How My Multi-Agent System Burned $200 Overnight &lpar;And How to Fix It&rpar;](https://pratikpathak.com/the-infinite-loop-trap-how-my-multi-agent-system-burned-200-overnight-and-how-to-fix-it/)
 - [Stop Overpaying for RAG: How We Cut Azure OpenAI Costs by 40% with One Architecture Tweak](https://pratikpathak.com/stop-overpaying-for-rag-how-we-cut-azure-openai-costs-by-40-with-one-architecture-tweak/)
 - [Just by changing this one setting I reduced my token usage by 75%](https://pratikpathak.com/caveman-claude-how-a-prehistoric-coding-style-cuts-ai-token-costs-by-75/)
-- [I Saved 80k Tokens a Day Just By Changing How My AI Agents Talk to Each Other](https://pratikpathak.com/i-saved-80k-tokens-a-day-just-by-changing-how-my-ai-agents-talk-to-each-other/)
 <!-- BLOG-POST-LIST:END -->
 
 
