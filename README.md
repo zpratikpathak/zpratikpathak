@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 25+ AWS DevOps Projects for Practice on GitHub &lpar;2026&rpar;](https://pratikpathak.com/top-25-aws-devops-projects-for-practice-github/)
 - [You Don’t Need a Vector Database. Do This Instead.](https://pratikpathak.com/you-dont-need-a-vector-database-do-this-instead/)
 - [The Cheapest &amp; Most Secure Ways to Self-Host Vaultwarden in 2026](https://pratikpathak.com/the-cheapest-most-secure-ways-to-self-host-vaultwarden-in-2026/)
 - [This Trick Boosts AI Agent Memory Retrieval by 78% With No Third-Party Tools](https://pratikpathak.com/trick-boosts-ai-agent-memory-retrieval-no-third-party-tools/)
 - [The ‘Infinite Loop’ Trap: How My Multi-Agent System Burned $200 Overnight &lpar;And How to Fix It&rpar;](https://pratikpathak.com/the-infinite-loop-trap-how-my-multi-agent-system-burned-200-overnight-and-how-to-fix-it/)
-- [Stop Overpaying for RAG: How We Cut Azure OpenAI Costs by 40% with One Architecture Tweak](https://pratikpathak.com/stop-overpaying-for-rag-how-we-cut-azure-openai-costs-by-40-with-one-architecture-tweak/)
 <!-- BLOG-POST-LIST:END -->
 
 
