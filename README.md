@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Your AI Agent is Leaking Data. Here’s How Azure AD B2C Plugs the Hole in 5 Minutes.](https://pratikpathak.com/your-ai-agent-is-leaking-data-heres-how-azure-ad-b2c-plugs-the-hole-in-5-minutes/)
 - [Building a Proactive Web-Scraping Agent with Python, Firecrawl, and Azure OpenAI](https://pratikpathak.com/building-a-proactive-web-scraping-agent-with-python-firecrawl-and-azure-openai/)
 - [VSIX Download: How to Install VS Code Extensions Offline &lpar;The Easy Way&rpar;](https://pratikpathak.com/how-to-download-vs-code-extensions-vsix-offline/)
 - [The 3 Lines of Python Code That Fixed My AI Agent’s Hallucinations](https://pratikpathak.com/the-3-lines-of-python-code-that-fixed-my-ai-agents-hallucinations/)
 - [Top 25+ AWS DevOps Projects for Practice on GitHub &lpar;2026&rpar;](https://pratikpathak.com/top-25-aws-devops-projects-for-practice-github/)
-- [You Don’t Need a Vector Database. Do This Instead.](https://pratikpathak.com/you-dont-need-a-vector-database-do-this-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 
