@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Hardcoding API Keys in LangChain: Securing AI Agents with Azure Key Vault](https://pratikpathak.com/stop-hardcoding-api-keys-in-langchain-securing-ai-agents-with-azure-key-vault/)
 - [Finally: Setting Up a Local, Offline AI Coding Assistant in VS Code](https://pratikpathak.com/finally-setting-up-a-local-offline-ai-coding-assistant-in-vs-code/)
 - [I learned this in 13 Years, Here are my DevOps Tips and Tricks](https://pratikpathak.com/i-learned-this-in-13-years-here-are-my-devops-tips-and-trick/)
 - [Silent Failures: The Hidden Reason Your AI Agents Keep Getting Stuck in Production](https://pratikpathak.com/silent-failures-the-hidden-reason-your-ai-agents-keep-getting-stuck-in-production/)
 - [Your AI Agent is Leaking Data. Here’s How Azure AD B2C Plugs the Hole in 5 Minutes.](https://pratikpathak.com/your-ai-agent-is-leaking-data-heres-how-azure-ad-b2c-plugs-the-hole-in-5-minutes/)
-- [Building a Proactive Web-Scraping Agent with Python, Firecrawl, and Azure OpenAI](https://pratikpathak.com/building-a-proactive-web-scraping-agent-with-python-firecrawl-and-azure-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 
