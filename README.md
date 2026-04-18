@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 25+ Advanced DSA Projects in C++ with Source Code](https://pratikpathak.com/top-25-advanced-dsa-projects-in-c-with-source-code/)
 - [Azure OpenAI Rate Limits Guide: How to Prevent Throttling in Production AI Systems](https://pratikpathak.com/azure-openai-rate-limits-guide/)
 - [Stop Hardcoding API Keys in LangChain: Securing AI Agents with Azure Key Vault](https://pratikpathak.com/stop-hardcoding-api-keys-in-langchain-securing-ai-agents-with-azure-key-vault/)
 - [Finally: Setting Up a Local, Offline AI Coding Assistant in VS Code](https://pratikpathak.com/finally-setting-up-a-local-offline-ai-coding-assistant-in-vs-code/)
 - [I learned this in 13 Years, Here are my DevOps Tips and Tricks](https://pratikpathak.com/i-learned-this-in-13-years-here-are-my-devops-tips-and-trick/)
-- [Silent Failures: The Hidden Reason Your AI Agents Keep Getting Stuck in Production](https://pratikpathak.com/silent-failures-the-hidden-reason-your-ai-agents-keep-getting-stuck-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 
