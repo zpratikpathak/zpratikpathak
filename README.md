@@ -84,7 +84,7 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure OpenAI Cost Optimization: 7 Rules to Save 80%](https://pratikpathak.com/azure-openai-cost-optimization/)
+- [I saved up 80% Azure OpenAi cost optimization by making these 7 architectural decision](https://pratikpathak.com/azure-openai-cost-optimization/)
 - [Gemini Chrome Skills: How to Use AI Workflows in Your Browser](https://pratikpathak.com/gemini-chrome-skills-ai-workflows/)
 - [Top 25+ Advanced DSA Projects in C++ with Source Code](https://pratikpathak.com/top-25-advanced-dsa-projects-in-c-with-source-code/)
 - [Azure OpenAI Rate Limits Guide: How to Prevent Throttling in Production AI Systems](https://pratikpathak.com/azure-openai-rate-limits-guide/)
