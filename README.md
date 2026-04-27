@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Your First Autonomous Agent using Azure OpenAI and Python](https://pratikpathak.com/azure-openai-python-agent/)
 - [The Real Difference Between Azure OpenAI and the Standard API](https://pratikpathak.com/azure-openai-service-vs-openai-direct-architecture/)
 - [How to Run Offline Code AI Locally: Complete Guide 2026](https://pratikpathak.com/offline-code-ai/)
 - [LangGraph vs Azure AI Agents: Orchestration Frameworks Compared](https://pratikpathak.com/langgraph-vs-azure-ai-agents-orchestration-frameworks-compared/)
 - [I saved up 80% Azure OpenAi cost optimization by making these 7 architectural decision](https://pratikpathak.com/azure-openai-cost-optimization/)
-- [Gemini Chrome Skills: How to Use AI Workflows in Your Browser](https://pratikpathak.com/gemini-chrome-skills-ai-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
 
