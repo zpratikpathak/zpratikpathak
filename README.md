@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [LangGraph vs CrewAI vs AutoGen: Which AI Agent Framework Should You Use in 2026?](https://pratikpathak.com/langgraph-vs-crewai-vs-autogen-2026/)
+- [LangGraph vs Azure AI Agents: Orchestrating Multi-Agent Workflows in Production](https://pratikpathak.com/langgraph-vs-azure-ai-agents-orchestrating-multi-agent-workflows-in-production/)
 - [How to Build Your First Autonomous Agent using Azure OpenAI and Python](https://pratikpathak.com/azure-openai-python-agent/)
 - [The Real Difference Between Azure OpenAI and the Standard API](https://pratikpathak.com/azure-openai-service-vs-openai-direct-architecture/)
 - [How to Run Offline Code AI Locally: Complete Guide 2026](https://pratikpathak.com/offline-code-ai/)
-- [LangGraph vs Azure AI Agents: Orchestration Frameworks Compared](https://pratikpathak.com/langgraph-vs-azure-ai-agents-orchestration-frameworks-compared/)
-- [I saved up 80% Azure OpenAi cost optimization by making these 7 architectural decision](https://pratikpathak.com/azure-openai-cost-optimization/)
 <!-- BLOG-POST-LIST:END -->
 
 
