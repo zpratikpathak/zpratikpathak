@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust vs Go: Choosing the Right Systems Language in 2026](https://pratikpathak.com/rust-vs-go-choosing-the-right-systems-language-in-2026/)
 - [LangGraph vs CrewAI vs AutoGen: Which AI Agent Framework Should You Use in 2026?](https://pratikpathak.com/langgraph-vs-crewai-vs-autogen-2026/)
 - [LangGraph vs Azure AI Agents: Orchestrating Multi-Agent Workflows in Production](https://pratikpathak.com/langgraph-vs-azure-ai-agents-orchestrating-multi-agent-workflows-in-production/)
 - [How to Build Your First Autonomous Agent using Azure OpenAI and Python](https://pratikpathak.com/azure-openai-python-agent/)
 - [The Real Difference Between Azure OpenAI and the Standard API](https://pratikpathak.com/azure-openai-service-vs-openai-direct-architecture/)
-- [How to Run Offline Code AI Locally: Complete Guide 2026](https://pratikpathak.com/offline-code-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 
