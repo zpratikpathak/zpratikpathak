@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Poetry vs Pip: Managing Dependencies in Modern AI Applications &lpar;2026&rpar;](https://pratikpathak.com/python-poetry-vs-pip-managing-dependencies-in-modern-ai-applications-2026/)
 - [Best VS Code Mod for Python: The Ultimate Developer Setup](https://pratikpathak.com/best-vs-code-mod-for-python-the-ultimate-developer-setup/)
 - [Cloud 3.0 Azure Intelligent Apps: Integrating AI-Driven Automation](https://pratikpathak.com/cloud-3-0-azure-intelligent-apps/)
 - [Rust vs Go: Choosing the Right Systems Language in 2026](https://pratikpathak.com/rust-vs-go-choosing-the-right-systems-language-in-2026/)
 - [LangGraph vs CrewAI vs AutoGen: Which AI Agent Framework Should You Use in 2026?](https://pratikpathak.com/langgraph-vs-crewai-vs-autogen-2026/)
-- [LangGraph vs Azure AI Agents: Orchestrating Multi-Agent Workflows in Production](https://pratikpathak.com/langgraph-vs-azure-ai-agents-orchestrating-multi-agent-workflows-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 
