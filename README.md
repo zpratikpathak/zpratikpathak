@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [LangChain vs Semantic Kernel: Which AI Orchestration Framework is Best? &lpar;2026&rpar;](https://pratikpathak.com/langchain-vs-semantic-kernel-which-ai-orchestration-framework-is-best-2026/)
 - [Understanding Azure AI Agents: A Complete Guide for Modern Cloud Apps &lpar;2026&rpar;](https://pratikpathak.com/understanding-azure-ai-agents-a-complete-guide-for-modern-cloud-apps-2026/)
 - [Python Poetry vs Pip: Managing Dependencies in Modern AI Applications &lpar;2026&rpar;](https://pratikpathak.com/python-poetry-vs-pip-managing-dependencies-in-modern-ai-applications-2026/)
 - [Best VS Code Mod for Python: The Ultimate Developer Setup](https://pratikpathak.com/best-vs-code-mod-for-python-the-ultimate-developer-setup/)
 - [Cloud 3.0 Azure Intelligent Apps: Integrating AI-Driven Automation](https://pratikpathak.com/cloud-3-0-azure-intelligent-apps/)
-- [Rust vs Go: Choosing the Right Systems Language in 2026](https://pratikpathak.com/rust-vs-go-choosing-the-right-systems-language-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 
