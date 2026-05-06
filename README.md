@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Automating Routine Dev Tasks with Python: 3 Scripts Every Developer Needs](https://pratikpathak.com/automating-routine-dev-tasks-with-python-3-scripts-every-developer-needs/)
 - [Top Vector Databases for AI Agents: A 2026 Developer Guide](https://pratikpathak.com/top-vector-databases-for-ai-agents-a-2026-developer-guide/)
 - [How to Download the Foundry Toolkit for VS Code VSIX](https://pratikpathak.com/how-to-download-the-foundry-toolkit-for-vs-code-vsix/)
 - [How to Manually Download and Install the VS Code Jupyter Extension VSIX](https://pratikpathak.com/how-to-manually-download-and-install-the-vs-code-jupyter-extension-vsix/)
 - [LangChain vs Semantic Kernel: Which AI Orchestration Framework is Best? &lpar;2026&rpar;](https://pratikpathak.com/langchain-vs-semantic-kernel-which-ai-orchestration-framework-is-best-2026/)
+- [Understanding Azure AI Agents: A Complete Guide for Modern Cloud Apps &lpar;2026&rpar;](https://pratikpathak.com/understanding-azure-ai-agents-a-complete-guide-for-modern-cloud-apps-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 
