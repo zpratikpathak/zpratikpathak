@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [g++ not working on windows 11](https://pratikpathak.com/g-not-working-on-windows-11/)
 - [Building Fast APIs in Rust: Actix vs Axum vs Rocket &lpar;2026&rpar;](https://pratikpathak.com/building-fast-apis-in-rust-actix-vs-axum-vs-rocket-2026/)
 - [Top Go &lpar;Golang&rpar; Web Frameworks to Learn in 2026](https://pratikpathak.com/top-go-golang-web-frameworks-to-learn-in-2026/)
 - [Automating Routine Dev Tasks with Python: 3 Scripts Every Developer Needs](https://pratikpathak.com/automating-routine-dev-tasks-with-python-3-scripts-every-developer-needs/)
 - [Top Vector Databases for AI Agents: A 2026 Developer Guide](https://pratikpathak.com/top-vector-databases-for-ai-agents-a-2026-developer-guide/)
-- [How to Download the Foundry Toolkit for VS Code VSIX](https://pratikpathak.com/how-to-download-the-foundry-toolkit-for-vs-code-vsix/)
 <!-- BLOG-POST-LIST:END -->
 
 
