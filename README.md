@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [VS Code Offline Extensions Download: Complete 2026 Guide](https://pratikpathak.com/vscode-extensions-offline-download/)
 - [FastAPI Best Practices: Building Production-Ready Python APIs in 2026](https://pratikpathak.com/fastapi-best-practices-building-production-ready-python-apis-in-2026/)
 - [g++ not working on windows 11](https://pratikpathak.com/g-not-working-on-windows-11/)
 - [Building Fast APIs in Rust: Actix vs Axum vs Rocket &lpar;2026&rpar;](https://pratikpathak.com/building-fast-apis-in-rust-actix-vs-axum-vs-rocket-2026/)
 - [Top Go &lpar;Golang&rpar; Web Frameworks to Learn in 2026](https://pratikpathak.com/top-go-golang-web-frameworks-to-learn-in-2026/)
-- [Automating Routine Dev Tasks with Python: 3 Scripts Every Developer Needs](https://pratikpathak.com/automating-routine-dev-tasks-with-python-3-scripts-every-developer-needs/)
 <!-- BLOG-POST-LIST:END -->
 
 
