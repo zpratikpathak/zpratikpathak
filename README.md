@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Latest FastAPI and Async Python Production Practices](https://pratikpathak.com/fastapi-async-production-practices/)
 - [Install Python &amp; Jupyter Extensions Offline in Trae IDE](https://pratikpathak.com/install-python-jupyter-offline-trae/)
 - [How to Download C/C++ Extension VSIX Offline for VS Code](https://pratikpathak.com/download-cpp-extension-vsix-offline/)
 - [VS Code Offline Extensions Download: Complete 2026 Guide](https://pratikpathak.com/vscode-extensions-offline-download/)
 - [FastAPI Best Practices: Building Production-Ready Python APIs in 2026](https://pratikpathak.com/fastapi-best-practices-building-production-ready-python-apis-in-2026/)
-- [g++ not working on windows 11](https://pratikpathak.com/g-not-working-on-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 
