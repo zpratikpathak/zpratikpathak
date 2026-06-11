@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Swapped pyenv, pipx, and virtualenv for uv Tool Management](https://pratikpathak.com/why-i-swapped-pyenv-pipx-and-virtualenv-for-uv/)
 - [Fix: VS Code C/C++ Extension Failed to Install Offline](https://pratikpathak.com/vscode-cpp-extension-failed-to-install-offline/)
 - [Latest FastAPI and Async Python Production Practices](https://pratikpathak.com/fastapi-async-production-practices/)
 - [Install Python &amp; Jupyter Extensions Offline in Trae IDE](https://pratikpathak.com/install-python-jupyter-offline-trae/)
 - [How to Download C/C++ Extension VSIX Offline for VS Code](https://pratikpathak.com/download-cpp-extension-vsix-offline/)
-- [VS Code Offline Extensions Download: Complete 2026 Guide](https://pratikpathak.com/vscode-extensions-offline-download/)
 <!-- BLOG-POST-LIST:END -->
 
 
