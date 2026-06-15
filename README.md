@@ -84,11 +84,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Cheapest and Safest Way to Host Postiz &lpar;Self-Hosted Tutorial&rpar;](https://pratikpathak.com/cheapest-and-safest-way-to-host-postiz/)
 - [Why I Swapped pyenv, pipx, and virtualenv for uv Tool Management](https://pratikpathak.com/why-i-swapped-pyenv-pipx-and-virtualenv-for-uv/)
 - [Fix: VS Code C/C++ Extension Failed to Install Offline](https://pratikpathak.com/vscode-cpp-extension-failed-to-install-offline/)
 - [Latest FastAPI and Async Python Production Practices](https://pratikpathak.com/fastapi-async-production-practices/)
 - [Install Python &amp; Jupyter Extensions Offline in Trae IDE](https://pratikpathak.com/install-python-jupyter-offline-trae/)
-- [How to Download C/C++ Extension VSIX Offline for VS Code](https://pratikpathak.com/download-cpp-extension-vsix-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 
