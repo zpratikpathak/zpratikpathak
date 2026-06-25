@@ -83,11 +83,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vector Search in Azure AI Search: The Ultimate Guide for Enterprise RAG](https://pratikpathak.com/azure-cognitive-search-vector-guide/)
 - [Azure OpenAI Model Deployment Guide: Configuring TPM, RPM, and PTU for Production](https://pratikpathak.com/azure-openai-model-deployment-tpm-ptu-guide/)
 - [The IDE is Dead: How I Configured Claude Code for Ultra-Fast Terminal Development](https://pratikpathak.com/the-ide-is-dead-how-i-configured-claude-code-for-ultra-fast-terminal-development/)
 - [Finally I found a LLM which is completely FREE and powerful like Claude Fable](https://pratikpathak.com/finally-i-found-a-llm-which-is-completely-free-and-powerful-like-claude-fable/)
 - [The Cheapest and Safest Way to Host Postiz &lpar;Self-Hosted Tutorial&rpar;](https://pratikpathak.com/cheapest-and-safest-way-to-host-postiz/)
-- [Why I Swapped pyenv, pipx, and virtualenv for uv Tool Management](https://pratikpathak.com/why-i-swapped-pyenv-pipx-and-virtualenv-for-uv/)
 <!-- BLOG-POST-LIST:END -->
 
 
