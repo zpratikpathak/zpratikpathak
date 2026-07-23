@@ -83,11 +83,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a FREE agent to automate my WordPress Blog](https://pratikpathak.com/i-built-a-free-agent-to-automate-my-wordpress-blog/)
 - [How to Build a Completely Air-Gapped Python Development Environment in VS Code &lpar;2026&rpar;](https://pratikpathak.com/offline-python-development-vs-code/)
 - [Download Python VSIX Extension &lpar;Offline Install Guide 2026&rpar;](https://pratikpathak.com/python-vsix-download-offline-install-guide/)
 - [Download GitHub Copilot VSIX Extension &lpar;Offline Install Guide 2026&rpar;](https://pratikpathak.com/download-github-copilot-vsix-extension-offline-install-guide-2026/)
 - [I Created a Second Brain for My Local AI Agents and Saved 70%](https://pratikpathak.com/i-created-a-second-brain-for-my-local-ai-agents-and-saved-70/)
-- [Azure Add Budget to Single Azure OpenAI Deployment: Stop AI Cost Runaways](https://pratikpathak.com/azure-add-budget-to-single-azure-openai-deployment/)
 <!-- BLOG-POST-LIST:END -->
 
 
