@@ -83,11 +83,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 25 Operating System Projects for Beginners &lpar;Hands-On, Zero Dependencies&rpar;](https://pratikpathak.com/top-25-operating-system-projects-for-beginners/)
 - [KillVenv: Safely Deleting Python Virtual Environments That Refuse to Die](https://pratikpathak.com/killvenv-safely-deleting-python-virtual-environments-that-refuse-to-die/)
 - [Extension Cleaner: Removing Browser Extensions That Refuse to Die](https://pratikpathak.com/extension-cleaner-removing-browser-extensions-that-refuse-to-die/)
 - [I built a FREE agent to automate my WordPress Blog](https://pratikpathak.com/i-built-a-free-agent-to-automate-my-wordpress-blog/)
 - [How to Build a Completely Air-Gapped Python Development Environment in VS Code &lpar;2026&rpar;](https://pratikpathak.com/offline-python-development-vs-code/)
-- [Download Python VSIX Extension &lpar;Offline Install Guide 2026&rpar;](https://pratikpathak.com/python-vsix-download-offline-install-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
