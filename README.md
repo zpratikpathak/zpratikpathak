@@ -83,11 +83,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [CMake VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/cmake-vsix-download-offline-install-guide/)
-- [Top 25 Operating System Projects for Beginners &lpar;Hands-On, Zero Dependencies&rpar;](https://pratikpathak.com/top-25-operating-system-projects-for-beginners/)
-- [KillVenv: Safely Deleting Python Virtual Environments That Refuse to Die](https://pratikpathak.com/killvenv-safely-deleting-python-virtual-environments-that-refuse-to-die/)
-- [Extension Cleaner: Removing Browser Extensions That Refuse to Die](https://pratikpathak.com/extension-cleaner-removing-browser-extensions-that-refuse-to-die/)
-- [I built a FREE agent to automate my WordPress Blog](https://pratikpathak.com/i-built-a-free-agent-to-automate-my-wordpress-blog/)
+- [PHP Extension Pack VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/php-extension-pack-vsix-download-offline-install-guide/)
+- [PHP Debug VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/php-debug-vsix-download-offline-install-guide/)
+- [Live Server VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/live-server-vsix-download-offline-install-guide/)
+- [Gradle for Java VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/gradle-for-java-vsix-download-offline-install-guide/)
+- [Remote VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/remote-vsix-download-offline-install-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
