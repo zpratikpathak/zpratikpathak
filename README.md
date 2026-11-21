@@ -83,11 +83,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/java-vsix-download-offline-install-guide/)
 - [Kilo Code VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/kilo-code-vsix-download-offline-install-guide/)
 - [PHP Extension Pack VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/php-extension-pack-vsix-download-offline-install-guide/)
 - [PHP Debug VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/php-debug-vsix-download-offline-install-guide/)
 - [Live Server VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/live-server-vsix-download-offline-install-guide/)
-- [Gradle for Java VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/gradle-for-java-vsix-download-offline-install-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
