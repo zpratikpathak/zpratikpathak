@@ -83,11 +83,11 @@ ns2.pratikpathak.com
 
 ### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP Profiler VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/php-profiler-vsix-download-offline-install-guide/)
 - [PHP VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/php-vsix-download-offline-install-guide/)
 - [Chinese &lpar;Simplified&rpar; &lpar;&rpar; Language Pa VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/chinese-simplified-language-pa-vsix-download-offline-install-guide/)
 - [C/C++ Extension Pack VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/c-c-extension-pack-vsix-download-offline-install-guide/)
 - [Code Runner VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/code-runner-vsix-download-offline-install-guide/)
-- [Kotlin VSIX Download: Offline Install Guide for VS Code](https://pratikpathak.com/kotlin-vsix-download-offline-install-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
